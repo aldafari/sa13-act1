@@ -4,9 +4,7 @@
 }
 body{
     display: flex; 
-    
-}
-body .header{
     justify-content: center;
     align-items: center;
+    
 }
