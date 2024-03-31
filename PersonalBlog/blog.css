@@ -5,6 +5,15 @@
 body{
     display: flex; 
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;  
+}
+
+header{
+    background-color: bisque;
+    font-size: 3.0em;
+    font-weight: 500;
+    border: 2px solid;
+    border-radius: 50%;
+    padding: 2%;
+    margin-top: 2%
 }
