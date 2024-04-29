@@ -1,35 +1,5 @@
-*{
-    padding: 0;
-    margin: 0;
-}
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} 
 
-.container p{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-     
-}
 
-header{
-    margin-bottom: 45%;
-    background-color: bisque;
-    font-size: 3.0em;
-    font-weight: 500;
-    width: 600px;
-    border: 2px solid;
-    border-radius: 50%;
-    padding: 2%;
-   
-}
-img{
-    display: flex;
-    justify-content: left;
- 
-}
+
   
 
