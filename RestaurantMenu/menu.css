@@ -5,6 +5,7 @@
 
 body{
     height: 100vh;
+  
 }
 
 header h1{
@@ -20,6 +21,7 @@ header h1{
     margin-left: 25%;
     margin-bottom: 50px;
     border-radius: 15px;
+    background-color: aqua;
 
 }
 .col-sm-6{
