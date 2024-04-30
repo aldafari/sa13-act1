@@ -9,17 +9,21 @@ body{
     background-color: aliceblue;
 }
 
-.header{
-    background-color: antiquewhite;
-    font-family: 'Times New Roman', Times, serif;
-    
-    margin-left: 2%;
+header h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    border: 2px solid;
+    padding: 3px;
+    background-color: rgb(245, 174, 123);
+    font-family: sans-serif;
 }
-
 .container{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 5%;
 }
   
 
