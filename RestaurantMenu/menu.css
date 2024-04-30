@@ -2,3 +2,37 @@
     padding: 0;
     margin: 0;
 }
+
+body{
+    height: 100vh;
+}
+
+.container h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.0em;
+    font-weight: 600;
+    font-family: 4.0em "Fira Sans", sans-serif;
+
+}
+.card-body{
+    background-color: rgb(252, 243, 231);
+}
+
+
+.card-title{
+    font-family: cursive;
+    font-size: 1.5em;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:aqua;
+    font-weight: 600;
+
+}
+
+ul li{
+    font-family: "Gill Sans", sans-serif;
+    font-weight: 600;
+}
