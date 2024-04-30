@@ -2,3 +2,12 @@
     padding: 0;
     margin: 0;
 }
+body{
+    min-height: 100vh;
+}
+.header{
+    margin-bottom: 5%;
+}
+.img-fluid2{
+    width: 600px;
+}
