@@ -4,50 +4,46 @@
 }
 
 body{
-    height: 100vh;
+    min-height: 100vh;
   
 }
 
-header h1{
+header p{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3.0em;
+    font-size: 1.5em;
     font-weight: 600;
     font-family: 4.0em "Fira Sans", sans-serif;
+    color: aliceblue;
     border: 2px solid;
     padding: 10px;
-    width: 50%;
-    margin-left: 25%;
-    margin-bottom: 50px;
+    width: 100%;
     border-radius: 15px;
-    background-color: aqua;
+    background-color: rgb(196, 54, 118);
 
 }
 .col-sm-6{
     
-    margin-bottom: 50px;
+    margin-bottom: 3%;
 }
 .card-body{
-    background-color: rgb(252, 243, 231);
-    height: 300px;
- 
+    background-color: rgb(209, 195, 201);
+    height: 360px;
+    
 }
 
 
 .card-title{
-    font-family: cursive;
-    font-size: 1.5em;
-    border: 2px solid;
-    border-radius: 10px;
-    padding: 5px;
-    background-color:aqua;
-    font-weight: 600;
+    font-family: "Fira Sans", sans-serif;
+    color: rgb(8, 99, 236);
+    font-weight: 500;
 
 }
 
 ul li{
     font-family: "Gill Sans", sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     font-weight: 600;
+    text-decoration: none;
 }
